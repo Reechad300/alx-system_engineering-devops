@@ -1,0 +1,4 @@
+#!/bin/bash
+$WATER='water'
+$STIR='stir'
+$WATER + $STIR='bestchol'
